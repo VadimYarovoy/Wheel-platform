@@ -1,0 +1,12 @@
+/home/yarovoy/Downloads/course/target/debug/deps/color_eyre-662a96c8e95b1db5.rmeta: /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs
+
+/home/yarovoy/Downloads/course/target/debug/deps/color_eyre-662a96c8e95b1db5.d: /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs /home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs
+
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs:
+/home/yarovoy/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs:
